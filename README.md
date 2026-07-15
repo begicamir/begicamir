@@ -56,7 +56,7 @@ Currently working on enterprise-scale systems in the automotive and digital comm
 
 ## 🚀 Featured Work
 
-### Download my CV [Amir_Begic_Senior_Engineer.pdf](https://github.com/user-attachments/files/30049506/Amir_Begic_Senior_Engineer.pdf)
+### [Download my CV](https://github.com/user-attachments/files/30049506/Amir_Begic_Senior_Engineer.pdf)
 
 - Automotive Digital Commerce Platform (Microservices)
 - Enterprise Commerce Platform (Microservices)
