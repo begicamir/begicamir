@@ -8,6 +8,11 @@ Building scalable backend platforms, microservices, and cloud-native application
 Currently working on enterprise-scale systems in the automotive and digital commerce space while exploring cloud-native architectures, event-driven systems, and developer productivity tooling.
 
 ---
+## 💼 Portfolio :
+
+### [Download my CV](https://github.com/user-attachments/files/30049506/Amir_Begic_Senior_Engineer.pdf)
+
+---
 
 ## 🌐 Socials:
 
@@ -55,8 +60,6 @@ Currently working on enterprise-scale systems in the automotive and digital comm
 ---
 
 ## 🚀 Featured Work
-
-### [Download my CV](https://github.com/user-attachments/files/30049506/Amir_Begic_Senior_Engineer.pdf)
 
 - Automotive Digital Commerce Platform (Microservices)
 - Enterprise Commerce Platform (Microservices)
