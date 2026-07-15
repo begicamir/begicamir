@@ -56,12 +56,15 @@ Currently working on enterprise-scale systems in the automotive and digital comm
 
 ## 🚀 Featured Work
 
-- Mercedes-Benz Digital Commerce Platform
+[Amir_Begic_Senior_Engineer.pdf](https://github.com/user-attachments/files/30049506/Amir_Begic_Senior_Engineer.pdf)
+
+- Automotive Digital Commerce Platform (Microservices)
 - Enterprise Commerce Platform (Microservices)
 - Cloud-Native Healthcare Platform
 - Business Management SaaS Platform
-- OpenDrive Fleet Management Platform
-- AladdinMiles Rewards Platform
+- Cloud Storage Platform
+- Rewards App Platform
+- Full-Featured Social App
 
 ---
 
